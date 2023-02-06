@@ -1,5 +1,2 @@
-var firstName;
-var firstName =Ashley; 
-var lastName;
-var lastName =Morris;
-function alert("My name is");
+alert("My name is Ashley Morris");
+alert("My age is 20")
