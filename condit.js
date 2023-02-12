@@ -10,6 +10,6 @@ if (randomNumber===0){
 }
 if (userChoice===computerChoice){
     alert ("You guessed right! The coin flip landed on heads");
-} if (userChoice!==computerChoice){
-    alert("Sorry, the coin flip landed on tails")
+} else {
+    alert("Sorry, the coin flip landed on tails");
 }
